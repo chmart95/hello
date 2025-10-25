@@ -51,7 +51,7 @@ public class helloServer {
       		+ "<body>\r\n"
       		+ "    <h1>Hello, DevOps!</h1>\r\n"
       		+ "    <p>Welcome to our first DevOps demo application.</p>\r\n"
-      		+ "    <p>This page is generated to verify the build and deployment pipeline.</p>\r\n"
+      		+ "    <p>My first CI/CD pipeline has been successfully built and deployed.</p>\r\n"
       		+ "    \r\n"
       		+ "    <div class=\"footer\">\r\n"
       		+ "        © DevOps Demo | Computer Science - Chris Martin\r\n"
